@@ -5,4 +5,4 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial. 
 
 Henlo Guys! gw dari GitHub, pusing juga yah anzay
-percobaan kedua buat pull pertama kali
+percobaan kedua buat pull pertama kali, henlo guys
